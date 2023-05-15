@@ -2,6 +2,8 @@
 
 This project is a React.js application that fetches a text file, analyzes the word frequency, and displays it as a bar chart. It also provides an option to export the word frequency data as a CSV file.
 
+**Live deployed link** - https://word-frequency-histogram-ttt.netlify.app/
+
 ## Components
 
 The code consists of the following components:
